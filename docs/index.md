@@ -21,3 +21,4 @@ This is another line
 This is yet another line
 
 # This is a new section
+# This is another section
