@@ -1,4 +1,14 @@
-site_name: Naval Architecture Wiki
+site_name: 
+  Naval Architecture Wiki
 
 theme:
   name: material
+
+
+extra_css : 
+  - stylesheets/extra.css
+
+extra_javascript: 
+  - javascripts/extra.js
+
+
